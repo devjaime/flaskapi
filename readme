@@ -1,0 +1,21 @@
+# flaskapi
+
+Api de ejemplo para pycon Chile [endpint](http://127.0.0.1:8080/sport).
+
+
+
+## Development server
+
+Terminal `python3 app.py`   
+
+
+## Docker
+* Terminal `docker build -t flaskapi .`
+* Terminal `docker run -d -p 8080:8080 flaskapi`
+
+
+
+
+## Doc
+
+Aqui encontraras la presentación [ppt](https://docs.google.com/presentation/d/1DsVQkwgyN_zTGs07JFo-24RBToQgBEweQelquBOmTYo/edit?usp=sharing).
